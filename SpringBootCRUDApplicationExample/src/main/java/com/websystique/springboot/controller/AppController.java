@@ -11,7 +11,7 @@ public class AppController {
 	@RequestMapping("/")
 	String home(ModelMap modal) {
 		modal.addAttribute("title","CRUD Example");
-		return "index"; // manual process
+		return "index"; // manual processfeefefefeee
 	}
 
 	@RequestMapping("/partials/{page}")
