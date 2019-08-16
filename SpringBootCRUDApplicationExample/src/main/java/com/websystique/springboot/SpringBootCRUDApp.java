@@ -9,6 +9,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringBootCRUDApp {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringBootCRUDApp.class, args);
+		SpringApplication.run(SpringBootCRUDApp.class, args);// hello new commite changes
 	}
 }
