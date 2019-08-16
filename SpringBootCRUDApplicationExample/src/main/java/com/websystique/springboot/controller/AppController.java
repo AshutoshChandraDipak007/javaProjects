@@ -16,7 +16,7 @@ public class AppController {
 
 	@RequestMapping("/partials/{page}")
 	String partialHandler(@PathVariable("page") final String page) {
-		return page;
+		return page;  //hello from fourth commit
 	}
 
 }
